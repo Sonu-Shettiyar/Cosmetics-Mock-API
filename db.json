@@ -983,5 +983,20 @@
             "type": "Lipstick",
             "category": "Lipstick"
         }
+    ],
+    "users": [
+        {}
+    ],
+    "wishlist": [
+        {}
+    ],
+    "cart": [
+        {}
+    ],
+    "register": [
+        {}
+    ],
+    "orders": [
+        {}
     ]
 }
